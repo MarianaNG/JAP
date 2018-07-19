@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Animaciones conectadas personaje principal.unity
+- path: Assets/Lampara.unity
   isLoaded: 1
   isActive: 1
